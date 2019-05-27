@@ -1,0 +1,26 @@
+{
+  "name": "@kamiaka/url-utils",
+  "version": "0.1.0",
+  "description": "Javascript URL Utilities.",
+  "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kamiaka/url-utils.git"
+  },
+  "author": "Shinya Kamiaka <shinya@kamiaka.net> (https://kamiaka.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamiaka/url-utils/issues"
+  },
+  "homepage": "https://github.com/kamiaka/url-utils#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
