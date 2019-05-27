@@ -1,6 +1,8 @@
 # url-utils
 Javascript URL Utilities.
 
+### joinPath
+
 ```javascript
 import { joinPath } from './dist';
 
