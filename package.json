@@ -1,6 +1,6 @@
 {
   "name": "@kamiaka/url-utils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Javascript URL Utilities.",
   "main": "dist/index.js",
   "publishConfig": {
